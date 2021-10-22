@@ -1,0 +1,1 @@
+This is my first Hackerrank challenge with my partner!
